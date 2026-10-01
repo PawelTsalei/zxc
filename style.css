@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+#glowna{display: flex;height: 600px;}
+#lewa{width: 60%;}
+#prawa{width: 40%;}
+header{height: 25%;
+background-color: palegoldenrod;}
+#ldolna{height: 75%;background-color: palegreen;}
+#pgorna{height: 50%;background-color: paleturquoise;}
+#pdolna{height: 50%;background-color: palevioletred;}
+footer{height: 150px;background-color: aquamarine;}
